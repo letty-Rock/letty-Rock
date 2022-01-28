@@ -2,12 +2,22 @@
 ## Seja muito bem vinda(o)
 
 
+![Alt Text](https://media.giphy.com/media/HwePORLAGGJOw/giphy.gif)
 
 
 
-- 🔭 Atualmente estou trabalhando na Mutant 
+- 🔭 Atualmente sou estagiária na Mutant como Desenvolvedora Backend Genesys Cloud
 - 🌱 Curso Analise e Desenvolvimento de Sistemas
--:heart_eyes: Meus hobbies são ler e ouvir música.
+- :heart_eyes: Meus hobbies são ler e ouvir música.
+
+
+
+![Alt Text](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
+
+
+
+
 
 ## Ferramentas e tecnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img 
