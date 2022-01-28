@@ -1,5 +1,5 @@
 ### Oie, me chamo Letícia Roque  👋
-## Seja muito bem vinda(o)
+
 
 
 ![Alt Text](https://media.giphy.com/media/HwePORLAGGJOw/giphy.gif)
