@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Atualmente sou estagiária na Mutant como Desenvolvedora Backend Genesys Cloud
+- 🔭 Atualmente sou Analista na Mutant como Desenvolvedora Backend Genesys Cloud
 - 🌱 Curso Analise e Desenvolvimento de Sistemas
 - :heart_eyes: Meus hobbies são ler e ouvir música.
 
